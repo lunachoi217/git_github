@@ -54,6 +54,15 @@ git push -u origin main
 
 <br><br>
 
+# 2. git 작업
+
+## 2.1 git 복제
+```bash
+git clone 레포지터리주소
+```
+
+<br>
+
 # github
 원격 저장소
 
